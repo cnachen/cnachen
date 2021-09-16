@@ -1,21 +1,21 @@
-# cnachen
+Nice to meet you, stranger.
 
-[![](https://img.shields.io/badge/-@cnachencli-008E59?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/cnachencli) [![](https://img.shields.io/badge/-cnachen.github.io-F07544?style=flat-square&logo=Blogger&logoColor=fff)](https://cnachen.github.io) [![](https://img.shields.io/badge/-cnachencli@live.cn-D13559?style=flat-square&logo=gmail&logoColor=white&labelColor=D13559)](mailto:cnachencli@live.cn)
+I am `cnachen`, an ordinary developer/student.
 
-> Ich denke ich bin.
+-  I've already known some Rust, and I'm learning Haskell recently.
+-  I like Minecraft. My Minecraft ID is identical to my GitHub username. 
+-  My favourite book is [Majo no Tabitabi](https://en.wikipedia.org/wiki/Wandering_Witch:_The_Journey_of_Elaina). My avatar comes from [Vol. 16](https://wandering-witch.fandom.com/wiki/Light_Novel_Volume_16).
+-  I've decided to change my major to CS this year.
 
-A chinese student learning C and Rust.
+>　Do one thing at a time and do well.
 
-Interested in creating small interesting projects.
+---
 
-<a href="https://github.com/cnachen/documents" target="_blank"><img src="https://gh-card.dev/repos/cnachen/documents.svg?fullname=" alt="cnachen/documents - GitHub" width="400px">
-
-![C/CPP](https://img.shields.io/badge/-C/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-AC003B?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-875A72?style=flat-square&logo=python&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS-aaa?style=flat-square&logo=apple&logoColor=white)
-![Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-653987?style=for-the-badge&logo=haskell&logoColor=white)
+![C/CPP](https://img.shields.io/badge/-C/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-875A72?style=for-the-badge&logo=python&logoColor=white)
+![Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F4D500?style=flat-square&logo=javascript&logoColor=black)
@@ -25,7 +25,9 @@ Interested in creating small interesting projects.
 ![Electron](https://img.shields.io/badge/-Electron.js-00897B?style=flat-square&logo=electron&logoColor=white)
 ![ArchLinux](https://img.shields.io/badge/-Arch_Linux-DD4814?style=flat-square&logo=archlinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=microsoft&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-aaa?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 -->
 
 <!--
@@ -33,4 +35,7 @@ Interested in creating small interesting projects.
 ![GitHub Readme Stats][ReadmeStats-Image]
 
 [ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=cnachen&show_icons=true&bg_color=ffffff&text_color=718096&hide_title=true "GitHub Readme Stats"
+
+
+<a href="https://github.com/cnachen/documents" target="_blank"><img src="https://gh-card.dev/repos/cnachen/documents.svg?fullname=" alt="cnachen/documents - GitHub" width="400px">
 -->
