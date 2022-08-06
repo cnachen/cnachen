@@ -4,8 +4,8 @@ I am `cnachen`, an ordinary developer/student.
 
 -  I've already known some Rust, and I'm learning Haskell recently.
 -  I like Minecraft. My Minecraft ID is identical to my GitHub username. 
--  My favourite book is [Majo no Tabitabi](https://en.wikipedia.org/wiki/Wandering_Witch:_The_Journey_of_Elaina). My avatar comes from [Vol. 16](https://wandering-witch.fandom.com/wiki/Light_Novel_Volume_16).
--  I've decided to change my major to CS this year.
+-  My favourite book is [Majo no Tabitabi](https://en.wikipedia.org/wiki/Wandering_Witch:_The_Journey_of_Elaina).
+-  I've changed my major to CS in 2022.
 
 >　Do one thing at a time and do well.
 
