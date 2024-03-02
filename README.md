@@ -2,10 +2,10 @@ Nice to meet you, stranger.
 
 I am `cnachen`, an ordinary developer.
 
--  I use [Fedora](fedoraproject.org) and maintain some packages on [Fedora Copr](copr.fedorainfracloud.org/coprs/cnachen).
--  I like [Blue Archive](bluearchive.jp). My avatar Azusa Shirasu is from this game.
--  I write blogs on my own website: [Cnachen's Blog](blog.cnachen.com).
--  You can always find me at [Telegram](t.me/cnachen), and I'm happy to make friends!
+-  I use [Fedora](https://fedoraproject.org) and maintain some packages on [Fedora Copr](https://copr.fedorainfracloud.org/coprs/cnachen).
+-  I like [Blue Archive](https://bluearchive.jp). My avatar Azusa Shirasu is from this game.
+-  I write blogs on my own website: [Cnachen's Blog](https://blog.cnachen.com).
+-  You can always find me at [Telegram](https://t.me/cnachen), and I'm happy to make friends!
 
 >　Do one thing at a time and do well.
 
