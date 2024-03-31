@@ -17,7 +17,7 @@ I am `cnachen`, an ordinary developer.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/NeoVim%2a-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora%2039-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora%2040-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS%2014-888?style=for-the-badge&logo=apple&logoColor=white)
 
