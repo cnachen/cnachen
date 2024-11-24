@@ -1,11 +1,9 @@
-Nice to meet you, stranger.
+I am `cnachen`, an average developer.
 
-I am `cnachen`, an ordinary developer.
-
--  I use [Fedora](https://fedoraproject.org) and maintain some packages on [Fedora Copr](https://copr.fedorainfracloud.org/coprs/cnachen).
--  I like [Blue Archive](https://bluearchive.jp). My avatar Azusa Shirasu is from this game.
+-  I use [Fedora](https://fedoraproject.org) and maintain packages on [Fedora Copr](https://copr.fedorainfracloud.org/coprs/cnachen).
+-  I'm interested in [ChromeOS](https://chromeos.google) recently.
 -  I write blogs on my own website: [Cnachen's Blog](https://blog.cnachen.com).
--  You can always find me at [Telegram](https://t.me/cnachen), and I'm happy to make friends!
+-  You can always reach me at [Telegram](https://t.me/cnachen).
 
 >　Do one thing at a time and do well.
 
@@ -17,9 +15,9 @@ I am `cnachen`, an ordinary developer.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ![Neovim](https://img.shields.io/badge/NeoVim%2a-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora%2040-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora%2041-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![macOS](https://img.shields.io/badge/-macOS%2014-888?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS%2015-888?style=for-the-badge&logo=apple&logoColor=white)
 
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
