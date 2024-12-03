@@ -13,11 +13,14 @@ I am `cnachen`, an average developer.
 ![Python](https://img.shields.io/badge/-Python-875A72?style=for-the-badge&logo=python&logoColor=white)
 ![Arm](https://img.shields.io/badge/-Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+<!--
 ![Neovim](https://img.shields.io/badge/NeoVim%2a-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora%2041-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian%2012-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS%2015-888?style=for-the-badge&logo=apple&logoColor=white)
+-->
 
 <!--
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +30,6 @@ I am `cnachen`, an average developer.
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
